@@ -10,7 +10,7 @@ export const Bio = {
     "WE ARE SURROUNDED BY DATA, BUT STARVED FOR INSIGHTS. -Jay Bear",
   github: "https://github.com/Milkyy-way",
   resume:
-    "https://drive.google.com/file/d/1NRlKcHCCtv-QXiStIIBhIDGDe65bT25s/view?usp=sharing",
+    "https://drive.google.com/file/d/16tOm8s5zIjKLJwiV0tkGkkhcZfLnsrdP/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/saurav-kumar-a5a83715a/",
   //twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/suv_km/",
